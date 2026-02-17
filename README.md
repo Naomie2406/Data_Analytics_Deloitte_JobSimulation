@@ -1,4 +1,4 @@
-# Deloitte x The Forage — Data Analytics Job Simulation
+# Deloitte x The Forage - Data Analytics Job Simulation
 ### Daikibo Industrials Case Study
 
 ---
@@ -11,7 +11,7 @@ This project was completed as part of the **Deloitte Australia Data Analytics Jo
 
 ---
 
-### Task 1 — Machine Downtime Analysis (Tableau Dashboard)
+### Task 1 - Machine Downtime Analysis (Tableau Dashboard)
 
 #### Objective
 Daikibo's tech team unified telemetry data collected from all 4 factories over the month of **May 2021**. Each factory operates **9 types of machines**, each sending a status message every **10 minutes**. The goal was to answer two key business questions:
@@ -33,11 +33,11 @@ Daikibo's tech team unified telemetry data collected from all 4 factories over t
 | Daikibo Berlin (Germany) | 20 |
 
 - **Daikibo Factory Seiko** recorded the highest number of machine breakdowns (480 events), making it the most critical site for maintenance intervention.
-- Within that factory, the **LaserWelder** was responsible for all 480 downtime events — all other machine types recorded 0 downtime, identifying it as the single point of failure.
+- Within that factory, the **LaserWelder** was responsible for all 480 downtime events - all other machine types recorded 0 downtime, identifying it as the single point of failure.
 
 ---
 
-### Task 2 — Gender Pay Equality Analysis (Excel)
+### Task 2 - Gender Pay Equality Analysis (Excel)
 
 #### Objective
 Following internal complaints about gender pay inequality, Daikibo Industrials commissioned a forensic analysis. An algorithm produced an **Equality Score** for each job role at each factory location. The task was to classify these scores and analyze the results.
@@ -52,7 +52,7 @@ The equality score was classified using the following rule (implemented as an Ex
 | < -20 or > +20 | ❌ Highly Discriminative |  
 
 
-## Formula Used — Equality Classification
+## Formula Used - Equality Classification
 
 The following Excel formula was used to classify each equality score:
 ```excel
@@ -80,8 +80,8 @@ The following Excel formula was used to classify each equality score:
 ---
 
 ### Tools Used
-- **Tableau Public** — data visualization and dashboard creation
-- **Microsoft Excel** — data classification and pivot table analysis
+- **Tableau Public** - data visualization and dashboard creation
+- **Microsoft Excel** - data classification and pivot table analysis
 <!--
 ---
 ---
@@ -94,7 +94,7 @@ Ce projet a été réalisé dans le cadre du **stage virtuel en Data Analytics d
 
 ---
 
-### Tâche 1 — Analyse des pannes machines (Dashboard Tableau)
+### Tâche 1 - Analyse des pannes machines (Dashboard Tableau)
 
 #### Objectif
 L'équipe technique de Daikibo a unifié les données de télémétrie collectées dans les 4 usines durant le mois de **mai 2021**. Chaque usine dispose de **9 types de machines**, envoyant un message de statut toutes les **10 minutes**. L'objectif était de répondre à deux questions clés :
@@ -116,11 +116,11 @@ L'équipe technique de Daikibo a unifié les données de télémétrie collecté
 | Daikibo Berlin (Allemagne) | 20 |
 
 - **Daikibo Factory Seiko** enregistre le plus grand nombre de pannes (480 événements) : c'est le site le plus critique en matière de maintenance.
-- Dans cette usine, le **LaserWelder** est responsable de la totalité des 480 pannes — tous les autres types de machines affichent 0 panne, ce qui en fait le seul point de défaillance.
+- Dans cette usine, le **LaserWelder** est responsable de la totalité des 480 pannes - tous les autres types de machines affichent 0 panne, ce qui en fait le seul point de défaillance.
 
 ---
 
-### Tâche 2 — Analyse de l'égalité salariale homme/femme (Excel)
+### Tâche 2 - Analyse de l'égalité salariale homme/femme (Excel)
 
 #### Objectif
 Suite à des plaintes internes relatives à l'inégalité salariale entre les genres, Daikibo Industrials a commandé une analyse forensique. Un algorithme a calculé un **score d'égalité** pour chaque rôle dans chaque usine. La mission consistait à classifier ces scores et à en analyser les résultats.
@@ -155,5 +155,5 @@ Le score d'égalité a été classifié selon la règle suivante (implémentée 
 ---
 
 ### Outils utilisés
-- **Tableau Public** — visualisation de données et création de tableaux de bord
-- **Microsoft Excel** — classification des données et analyse par tableau croisé dynamique -->
+- **Tableau Public** - visualisation de données et création de tableaux de bord
+- **Microsoft Excel** - classification des données et analyse par tableau croisé dynamique -->
