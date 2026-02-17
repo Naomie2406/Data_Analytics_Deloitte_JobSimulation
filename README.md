@@ -47,11 +47,10 @@ The equality score was classified using the following rule (implemented as an Ex
 
 | Score (absolute value) | Classification |
 |---|---|
-| < 10 | ✅ Fair |
-| 10 – 20 | ⚠️ Unfair |
-| > 20 | ❌ Highly Discriminative |
+| -10 to +10 | ✅ Fair |
+| < -10 or > +10 | ⚠️ Unfair |
+| < -20 or > +20 | ❌ Highly Discriminative |
 
-*Note: Negative scores indicate women are underpaid relative to men.*
 
 #### Results by Factory
 
@@ -123,11 +122,10 @@ Le score d'égalité a été classifié selon la règle suivante (implémentée 
 
 | Score (valeur absolue) | Classification |
 |---|---|
-| < 10 | ✅ Équitable |
-| 10 – 20 | ⚠️ Inéquitable |
-| > 20 | ❌ Très discriminatoire |
+| -10 to +10 | ✅ Équitable |
+| < -10 or > +10 | ⚠️ Inéquitable |
+| < -20 or > +20 | ❌ Très discriminatoire |
 
-*Note : Les scores négatifs indiquent que les femmes sont moins bien rémunérées que les hommes.*
 
 #### Résultats par usine
 
