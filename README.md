@@ -3,7 +3,7 @@
 
 ---
 
-## 🇬🇧 ENGLISH VERSION
+<!--## 🇬🇧 ENGLISH VERSION-->
 
 ### Project Overview
 
@@ -74,7 +74,7 @@ The equality score was classified using the following rule (implemented as an Ex
 ### Tools Used
 - **Tableau Public** — data visualization and dashboard creation
 - **Microsoft Excel** — data classification and pivot table analysis
-
+<!--
 ---
 ---
 
@@ -148,4 +148,4 @@ Le score d'égalité a été classifié selon la règle suivante (implémentée 
 
 ### Outils utilisés
 - **Tableau Public** — visualisation de données et création de tableaux de bord
-- **Microsoft Excel** — classification des données et analyse par tableau croisé dynamique
+- **Microsoft Excel** — classification des données et analyse par tableau croisé dynamique -->
