@@ -60,6 +60,20 @@ The following Excel formula was used to classify each equality score:
 ```
 
 
+<img width="835" height="735" alt="image" src="https://github.com/user-attachments/assets/365a5727-18a1-4f09-97d4-0afba378e1b9" />      
+
+
+
+
+
+
+
+
+
+<img width="967" height="164" alt="image" src="https://github.com/user-attachments/assets/f28986ee-cdbd-466e-a468-378d914f9b54" />
+
+
+
 #### Results by Factory
 
 | Factory | Fair | Unfair | Highly Discriminative | Average Score |
