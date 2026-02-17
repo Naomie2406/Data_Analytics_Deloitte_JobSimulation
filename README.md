@@ -1,4 +1,4 @@
-# Deloitte x The Forage — Data Analytics Virtual Internship
+# Deloitte x The Forage — Data Analytics Job Simulation
 ### Daikibo Industrials Case Study
 
 ---
@@ -7,7 +7,7 @@
 
 ### Project Overview
 
-This project was completed as part of the **Deloitte Australia Data Analytics Virtual Internship** on The Forage platform. It involved real-world data analysis tasks for a fictional industrial client, **Daikibo Industrials**, a manufacturer operating four factories across the globe.
+This project was completed as part of the **Deloitte Australia Data Analytics Job Simulation** on The Forage platform. It involved real-world data analysis tasks for a fictional industrial client, **Daikibo Industrials**, a manufacturer operating four factories across the globe.
 
 ---
 
