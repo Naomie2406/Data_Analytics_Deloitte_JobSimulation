@@ -49,7 +49,15 @@ The equality score was classified using the following rule (implemented as an Ex
 |---|---|
 | -10 to +10 | ✅ Fair |
 | < -10 or > +10 | ⚠️ Unfair |
-| < -20 or > +20 | ❌ Highly Discriminative |
+| < -20 or > +20 | ❌ Highly Discriminative |  
+
+
+## Formula Used — Equality Classification
+
+The following Excel formula was used to classify each equality score:
+```excel
+=IF(ABS(C2)<10, "Fair", IF(ABS(C2)<=20, "Unfair", "Highly Discriminative"))
+```
 
 
 #### Results by Factory
